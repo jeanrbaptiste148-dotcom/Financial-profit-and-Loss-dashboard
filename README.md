@@ -1,4 +1,4 @@
-# Financial-profit-and-Loss-dashboard
+#Guide to the Financial-profit-and-Loss-dashboard
 This project is designed to help students to understand how excel is used to analyze business financial performance
 
 **this my project**
